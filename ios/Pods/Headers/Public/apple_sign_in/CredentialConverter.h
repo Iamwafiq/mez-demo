@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/apple_sign_in/ios/Classes/Converters/CredentialConverter.h
