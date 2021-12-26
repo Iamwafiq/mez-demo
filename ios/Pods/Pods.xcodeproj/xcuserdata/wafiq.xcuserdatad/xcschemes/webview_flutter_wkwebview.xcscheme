@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FCDF76888DCEA8651F3014962EC26CEE"
-               BuildableName = "libapple_sign_in.a"
-               BlueprintName = "apple_sign_in"
+               BlueprintIdentifier = "755457F3785F4D2E55FCAFA408242FD5"
+               BuildableName = "libwebview_flutter_wkwebview.a"
+               BlueprintName = "webview_flutter_wkwebview"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
